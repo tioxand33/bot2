@@ -3,13 +3,16 @@ const help = (prefix) => {
 
 
 ╭━⋆⃟⊱๑⋆⃟⊱๑ˌ⋆⃟⊱๑⋆⃟⊱๑⋆⃟⊱๑⋆⃟⊱๑⋆⃟⊱๑⋆⃟⊱๑⋆⃟⊱๑⋆⃟⊱๑⋆⃟⊱━
-〲┴┬➣♠️MARKOS BOT2.0♠️
+〲┴┬➣♠️ XANDINHO O BOT 2.0♠️
 〲
-〲┴┬➣𝐃𝐎𝐍𝐎: MARKOSWY. 愛
+〲┴┬➣𝐃𝐎𝐍𝐎: Tio Xande. 愛
 〲
-〲┴┬➣wa.me/+5594988088531
+〲┴┬➣wa.me/+556392445315
 〲
-〲┴┬➣𝐒𝐓𝐀𝐓𝐔𝐒: ON
+〲┴┬➣Grupo do bot: https://chat.whatsapp.com/EysulSnl9WcEeF2bQbN3Bj
+〲
+〲
+〲┴┬➣𝐒𝐓𝐀𝐓𝐔𝐒: ON-LINE
 〲︶︶︶︶︶︶︶︶︶︶︶︶︶︶︶︶︶︶︶
 〲╭─────⊣〘 𝗙𝗜𝗚𝗨𝗥𝗜𝗡𝗛𝗔 〙
 〲│
@@ -155,7 +158,9 @@ const help = (prefix) => {
 〲︶︶︶︶︶︶︶︶︶︶︶︶︶︶︶︶︶︶︶
 〲
 〲╭─────⊣〘 𝗚𝗥𝗨𝗣𝗢 〙
-〲│
+〲│ ATENÇÃO:
+〲 ESSE COMANDOS DE GRUPO DE TIRAR A PESSOA MARCA UMA DE UMA VEZ SÓ
+〲
 〲┴┬➣ COMANDO: '${prefix}add'
 〲┴┬➣ DESC: Adicionar membro ao grupo
 〲┴┬➣ USO: .add 55xxxxxxxx
@@ -264,13 +269,13 @@ const help = (prefix) => {
 〲︶︶︶︶︶︶︶︶︶︶︶︶︶︶︶︶︶︶
 〲╭────⊣〘 𝗦𝗨𝗣𝗢𝗥𝗧𝗘 〙
 〲│
-〲┴┬➣ Wpp: wa.me/5594988088531
+〲┴┬➣ Wpp wa.me/+556392445315
 〲︶︶︶︶︶︶︶︶︶︶︶︶︶︶︶︶︶︶
 〲 
 〲 ║▌│█║▌│ █║▌│█│║▌║
 〲 ║▌│█║▌│ █║▌│█│║▌║
 〲
-〲 Copyright © 𝗠𝗔𝗥𝗞𝗢𝗦 𝗕𝗢𝗧 愛 2021
+〲 Copyright © TIO XANDE BOTS 愛 2021
 〲
 ︶︶︶︶︶︶︶︶︶︶︶︶︶︶︶︶︶︶︶
 `
